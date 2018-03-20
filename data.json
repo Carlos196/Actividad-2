@@ -1,0 +1,20 @@
+{
+	"libros": [
+		{
+			"id": "",
+			"title": "Genesis",
+			"desc": "Primer libro de la biblia",
+			"links": [
+				{
+					"url": "https://www.lds.org/scriptures/ot/gen/1.26?lang=spa",
+					"title": "Capitulo 1"
+				},
+				{
+					"url": "https://www.bible.com/es/bible/149/GEN.2.RVR1960",
+					"title": "Capitulo 2"
+				}
+			]
+		
+		}
+	]
+}
